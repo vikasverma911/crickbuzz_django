@@ -28,10 +28,10 @@ Player Detail Enpoint:
 *Add Headers (if required):
 *If your API requires headers (e.g., Authorization, Content-Type), click on the "Headers" tab below the request URL.
 *Add headers by clicking on the "Add Row" button and entering the key-value pairs.
-**key: Authorization
-**value: Token <token>
+*key: Authorization
+*value: Token <token>
 
-**<token> : access token recived as a response after successful login
+*<token> : access token recived as a response after successful login
 
 
 
